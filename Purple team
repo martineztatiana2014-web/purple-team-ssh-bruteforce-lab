@@ -1,0 +1,3 @@
+git remote add origin https://github.com/martineztatiana2014-web/purple-team-ssh-bruteforce-lab.git
+git branch -M main
+git push -u origin main
